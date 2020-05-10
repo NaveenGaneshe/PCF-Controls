@@ -1,0 +1,2 @@
+F:\Giveaway\PCF\controls\customalert\obj\Debug\customalert.pcfprojAssemblyReference.cache
+F:\Giveaway\PCF\controls\customalert\obj\Debug\customalert.pcfproj.CoreCompileInputs.cache
